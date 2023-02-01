@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #B594B6;
+}
+
+.boton{
+    color: blueviolet;
+    border: none;
+}
+.boton:hover{
+    background-color: blueviolet;
+    color: #fff;
+    transition: all 1s ease
+    transform all scale(1.2);
+    border-radius: 5px;
+}
+.name{
+    
+    color: #fff;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+
+.name h1:hover{
+    background-color: #a53ea9;
+    transition: all 1s ease;
+    transform: scale(1.1) ;
+}
+
+h1{
+    font-family: 'Kavoon', cursive;
+    border: solid 5px pink ;
+}
