@@ -20,6 +20,17 @@ body{
     transform all scale(1.2);
     border-radius: 5px;
 }
+.boton__productos{
+    color: #fff;
+    border: none;
+}
+.boton__productos:hover{
+    background-color: blueviolet;
+    color: #fff;
+    transition: all 1s ease
+    transform all scale(1.2);
+    border-radius: 5px;
+}
 .name{
     
     color: #fff;   
@@ -28,6 +39,10 @@ body{
     align-items: center;
     margin-top: 50px;
     
+}
+
+.producto{
+    background-color: #B594B6;
 }
 
 .name h1:hover{
@@ -40,4 +55,8 @@ h1{
     font-family: 'Kavoon', cursive;
     border: solid 5px pink ;
 }
- /*///*
+ 
+.testimonios{
+
+        background-color: #B594B6;
+}
