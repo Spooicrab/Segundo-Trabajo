@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+section{
+    margin-top: 50px;
+}
+body{
+    background: url('../assets/Eye/fondo/bg.gif');
+    background-repeat: repeat;
+    font-family: 'Roboto', sans-serif;
+    background-color: #092711;
+}
+.logo{
+    margin-top: 20px;
+    width: 80px ;
+}
+.name{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 44px;
+    font-weight: 600px;
+    color: #fff;
+    margin-top: 14vh;
+    margin-bottom: 14vh;
+}
+.boton{
+    color: #fff;
+    font-size: 24px;
+    text-decoration: none;
+    border: #00D600 solid 2px;
+    padding: 3px 30px;
+    margin-top: 20px;
+    transition: all 1.5s ease;
+
+    
+}
+
+.boton:hover{
+    background-color: #00D600;
+    color: black;
+    transform: scale(1.3);
+}
+
+.container__text{
+    
+    color: #fff;
+    padding-left: 80px;
+    text-align: justify;
+    
+}
+
+.footer__pago{
+    width: 30vw;
+    height: 100px;
+    color: #00D600;
+    padding-left: 30px;
+    display: block;
+}
+.footer__pago__medios{
+    display: flexbox;
+    align-items: center;
+    justify-content: space-around;
+}
+.footer__pago__medios img{
+    height: 35px;
+    background-color: #00D600;
+}
+.Redes div img{
+    
+    height: 35px;
+    background-color: #00D600;
+}
+.redes__logos{
+    display: flexbox;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.Redes{
+    color: #00D600;
+   
+}
+
+.txt__table h3{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    color: #00D600;
+
+    
+
+}
+footer{
+    background-color: #09271150;
+    margin-top: 50px;
+    
+
+}
+
+.producto{
+    margin-bottom: 50px;
+}
+
+.up{
+
+    height: 100px;    
+    color: #00D600;
+    
+
+}
+.up div img{
+    height: 35px;
+    background-color: #00D600;
+    
+}
+
+
+.row__img img{
+     
+    width: 400px;
+    height: auto;
+    align-self: center;
+    justify-content: center;
+        
+
+}
+.animation{
+transition: all 2s ease;
+transform: scale(1.5);
+color: #00D600;
+border:solid #092711 4px;
+border-radius: 6px;
+margin-bottom: 50px;
+}
+h1{
+margin-bottom: 50px;
+}
