@@ -38,6 +38,7 @@ body{
     justify-content: center;
     align-items: center;
     margin-top: 50px;
+    margin-bottom: 50px;
     
 }
 
@@ -59,4 +60,34 @@ h1{
 .testimonios{
 
         background-color: #B594B6;
+}
+
+section{
+
+    margin-top: 50px;
+
+}
+
+footer{
+
+margin-top: 50px;
+
+}
+
+.contacto{
+
+    padding-left: 50px;
+    border: #a53ea9 solid 5px;
+}
+
+.contacto__icon{
+
+    width: 20%;
+
+}
+.contacto__container{
+
+height: auto;
+
+
 }
