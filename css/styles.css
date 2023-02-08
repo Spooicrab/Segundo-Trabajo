@@ -45,7 +45,7 @@ body{
     background-color: #B594B6;
 }
 
-.name h1:hover{
+.animation{
     background-color: #a53ea9;
     transition: all 1s ease;
     transform: scale(1.1) ;
